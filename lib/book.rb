@@ -35,8 +35,13 @@ def turn_page
   puts "Flipping the page...wow, you read fast!"
 end
 
+<<<<<<< HEAD
 #book = Book.new 
 #book.turn_page
+=======
+book = Book.new 
+book.turn_page
+>>>>>>> 3aed00df8a56e88922585f2b2f1f082bf6f7d78d
 
 end
 
